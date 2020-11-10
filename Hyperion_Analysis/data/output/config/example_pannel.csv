@@ -1,0 +1,13 @@
+Tube Number,Meta+A16:H27l Tag,Target,Antibody Clone,Stock Concentration,Final Concentration / Dilution,uL to add,full,ilastik
+1,Pr141,alpha-SMA,1A4,0.5 mg/ml,0.5 mg/ml,1.7 ug/ml,1,1
+2,Nd143,Vimentin,RV202,0.5 mg/ml,0.5 mg/ml,2.5 ug/ml,1,0
+3,Sm149,CD11b,EPR1344,0.5 mg/ml,0.5 mg/ml,5.0 ug/ml,1,0
+4,Sm152,CD45,2B11,0.5 mg/ml,0.5 mg/ml,3.3 ug/ml,1,1
+5,Gd156,CD45,EPR6855,0.5 mg/ml,0.5 mg/ml,2.5 ug/ml,1,1
+6,Tb159,CD68,KP1,0.5 mg/ml,0.5 mg/ml,1.0 ug/ml,1,1
+7,Dy161,CD20,H1,0.5 mg/ml,0.5 mg/ml,1.7 ug/ml,1,0
+8,Dy162,CD8a,C8/144B,0.5 mg/ml,0.5 mg/ml,1.3 ug/ml,1,1
+9,Tm169,CollagenI,Poly,0.5 mg/ml,0.5 mg/ml,1.7 ug/ml,1,0
+10,Er170,CD3,Poly,0.5 mg/ml,0.5 mg/ml,3.3 ug/ml,1,1
+11,Yb176,Histone H3,D1H2,0.5 mg/ml,0.5 mg/ml,0.5 ug/ml,1,0
+12,Ir191,Iridium191,,,0.5 mg/ml,0.5 ug/ml,1,1
